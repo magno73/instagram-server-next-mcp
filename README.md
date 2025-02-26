@@ -1,6 +1,6 @@
 # Instagram MCP Server
 
-A Model Context Protocol (MCP) server for fetching Instagram posts using Chrome's existing login session.
+A  Model Context Protocol (MCP) server for fetching Instagram posts using Chrome's existing login session.
 
 ## Features
 
